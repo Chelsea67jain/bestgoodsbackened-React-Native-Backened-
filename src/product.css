@@ -1,0 +1,20 @@
+.maincontainer{
+    display:flex;
+    height:60vh;
+    justify-content:center;
+    align-items:center;
+}
+.subcontainer{
+   width:500px;
+   padding:30px;
+  background-color: #bdc3c7;
+}
+.heading{
+    font-size: 30px;
+    color:white;
+
+}
+.labelstyle{
+    font-size: 20px;
+    color:white;
+}
